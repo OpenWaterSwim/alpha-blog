@@ -1,4 +1,4 @@
-$navbar-default-bg: #006666;
+$navbar-default-bg: #9E0000;
 
 @import "bootstrap-sprockets";
 @import "bootstrap";
@@ -22,7 +22,7 @@ $navbar-default-bg: #006666;
 }
 
 .jumbotron {
-  background-image: asset-url('water.jpg');
+  background-image: asset-url('ruby-on-rails.jpg');
   background-size: cover;
   height: 550px;
 }
@@ -30,7 +30,7 @@ $navbar-default-bg: #006666;
 .jumbotron h1 {
   color: #fff;
   text-align: center;
-  margin-bottom: 30px;
+  margin-top: 280px;
   letter-spacing: -1px;
   font-weight: bold;
 }
@@ -41,7 +41,7 @@ $navbar-default-bg: #006666;
 }
 
 footer {
-  maring-top: 45px;
+  margin-top: 45px;
   padding-top: 5px;
   border-top: 1px solid #006666;
   color: #777;
